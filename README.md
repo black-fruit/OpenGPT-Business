@@ -5,13 +5,13 @@ https://github.com/79E/ChatGpt-Web ' front+backend code
 
 # Install
 
-Frontend
+## Frontend
 
 ```bash
 yarn install && yarn build
 ```
 
-Backend
+## Backend
 
 Edit `server/config.index.js`
 
@@ -19,6 +19,7 @@ Edit `server/config.index.js`
 cd server
 pm2 start index.js --name chatweb --watch
 ```
+## Web Access
 
 Set site running dictionary to `dist` folder.
 
