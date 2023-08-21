@@ -1,7 +1,7 @@
 # OpenGPT-Business
-https://github.com/79E/ChatGpt-Web 的1.3.9开源版服务端
+https://github.com/79E/ChatGpt-Web ' front+backend code
 
-商业版GPT源码
+商业版GPT源码, Business GPT src
 
 # Install
 
