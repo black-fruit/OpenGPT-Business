@@ -14,7 +14,7 @@ Full open source, can be secondary development
 
 ## Frontend
 
-Do this in terminal (dic=/<site>)
+Do this in terminal (dic=`/<site>`)
 
 ```bash
 yarn install && yarn build
@@ -24,7 +24,7 @@ yarn install && yarn build
 
 Edit `server/config/index.js`
 
-Do this in terminal (dic=/<site>)
+Do this in terminal (dic=`/<site>`)
 
 ```bash
 cd server
