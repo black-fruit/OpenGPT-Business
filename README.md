@@ -14,13 +14,17 @@ Full open source, can be secondary development
 
 ## Frontend
 
+Do this in terminal (dic=/<site>)
+
 ```bash
 yarn install && yarn build
 ```
 
 ## Backend
 
-Edit `server/config.index.js`
+Edit `server/config/index.js`
+
+Do this in terminal (dic=/<site>)
 
 ```bash
 cd server
