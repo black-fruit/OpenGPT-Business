@@ -1,7 +1,12 @@
 # OpenGPT-Business
+
+## About
+
 https://github.com/79E/ChatGpt-Web ' front+backend code
 
 商业版GPT源码, Business GPT src
+
+Full open source, can be secondary development
 
 # Install
 
